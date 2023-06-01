@@ -1,0 +1,5 @@
+ascii-magic==2.3.0
+keyboard==0.13.5
+readchar==4.0.5
+termcolor==2.2.0
+terminaltables==3.1.10
